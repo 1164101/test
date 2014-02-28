@@ -1,0 +1,4 @@
+D:\test\test\test\bin\Debug\test.exe
+D:\test\test\test\bin\Debug\test.pdb
+D:\test\test\test\obj\x86\Debug\test.exe
+D:\test\test\test\obj\x86\Debug\test.pdb
