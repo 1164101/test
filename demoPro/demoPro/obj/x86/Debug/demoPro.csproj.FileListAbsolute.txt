@@ -1,4 +1,0 @@
-D:\test\demoPro\demoPro\bin\Debug\demoPro.exe
-D:\test\demoPro\demoPro\bin\Debug\demoPro.pdb
-D:\test\demoPro\demoPro\obj\x86\Debug\demoPro.exe
-D:\test\demoPro\demoPro\obj\x86\Debug\demoPro.pdb
